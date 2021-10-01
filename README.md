@@ -1,4 +1,4 @@
-# BuidLootT React Frontend
+# BuidLoot React Frontend
 
 ### **Welcome 👋**
 
